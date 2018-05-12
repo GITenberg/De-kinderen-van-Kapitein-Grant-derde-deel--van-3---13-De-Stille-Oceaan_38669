@@ -1,0 +1,41 @@
+_repo: De-kinderen-van-Kapitein-Grant-derde-deel--van-3---13-De-Stille-Oceaan_38669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2012-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38669'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Australia -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Ocean travel -- Fiction'
+- !lcsh 'South America -- Fiction'
+- !lcsh 'New Zealand -- Fiction'
+title: "De kinderen van Kapitein Grant, derde deel (van 3)\r\nDe Stille Oceaan"
+url: http://www.gutenberg.org/ebooks/38669
